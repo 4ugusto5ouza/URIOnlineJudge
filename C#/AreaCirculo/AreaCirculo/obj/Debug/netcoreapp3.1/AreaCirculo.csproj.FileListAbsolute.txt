@@ -1,0 +1,13 @@
+C:\Users\srlim\Documents\URI Online Judge\UriOnlineJudge\C#\AreaCirculo\AreaCirculo\bin\Debug\netcoreapp3.1\AreaCirculo.exe
+C:\Users\srlim\Documents\URI Online Judge\UriOnlineJudge\C#\AreaCirculo\AreaCirculo\bin\Debug\netcoreapp3.1\AreaCirculo.deps.json
+C:\Users\srlim\Documents\URI Online Judge\UriOnlineJudge\C#\AreaCirculo\AreaCirculo\bin\Debug\netcoreapp3.1\AreaCirculo.runtimeconfig.json
+C:\Users\srlim\Documents\URI Online Judge\UriOnlineJudge\C#\AreaCirculo\AreaCirculo\bin\Debug\netcoreapp3.1\AreaCirculo.runtimeconfig.dev.json
+C:\Users\srlim\Documents\URI Online Judge\UriOnlineJudge\C#\AreaCirculo\AreaCirculo\bin\Debug\netcoreapp3.1\AreaCirculo.dll
+C:\Users\srlim\Documents\URI Online Judge\UriOnlineJudge\C#\AreaCirculo\AreaCirculo\bin\Debug\netcoreapp3.1\AreaCirculo.pdb
+C:\Users\srlim\Documents\URI Online Judge\UriOnlineJudge\C#\AreaCirculo\AreaCirculo\obj\Debug\netcoreapp3.1\AreaCirculo.csprojAssemblyReference.cache
+C:\Users\srlim\Documents\URI Online Judge\UriOnlineJudge\C#\AreaCirculo\AreaCirculo\obj\Debug\netcoreapp3.1\AreaCirculo.AssemblyInfoInputs.cache
+C:\Users\srlim\Documents\URI Online Judge\UriOnlineJudge\C#\AreaCirculo\AreaCirculo\obj\Debug\netcoreapp3.1\AreaCirculo.AssemblyInfo.cs
+C:\Users\srlim\Documents\URI Online Judge\UriOnlineJudge\C#\AreaCirculo\AreaCirculo\obj\Debug\netcoreapp3.1\AreaCirculo.csproj.CoreCompileInputs.cache
+C:\Users\srlim\Documents\URI Online Judge\UriOnlineJudge\C#\AreaCirculo\AreaCirculo\obj\Debug\netcoreapp3.1\AreaCirculo.dll
+C:\Users\srlim\Documents\URI Online Judge\UriOnlineJudge\C#\AreaCirculo\AreaCirculo\obj\Debug\netcoreapp3.1\AreaCirculo.pdb
+C:\Users\srlim\Documents\URI Online Judge\UriOnlineJudge\C#\AreaCirculo\AreaCirculo\obj\Debug\netcoreapp3.1\AreaCirculo.genruntimeconfig.cache
