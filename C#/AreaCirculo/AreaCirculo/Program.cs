@@ -9,7 +9,7 @@ namespace AreaCirculo
             double area, raio;
             double n = 3.14159;
 
-            raio = System.Console.Read();
+            raio = double.Parse(Console.ReadLine());
 
             area = Math.Pow(raio, 2.00) * n;
 
